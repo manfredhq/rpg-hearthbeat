@@ -9,6 +9,7 @@ Fermer l'inventaire pendant la selection "equip" ou "unequip"
 Inventaire trop "rapide" pour le clavier  
 premiere bulle de texte du coffre trop grande  
 bug avec l'inventaire lors des saves  
+Finishing the lever (not implemented in this version)  
 
 # Last patch note
 Added a new mob w/ his def sprite, it's a ranged mob
