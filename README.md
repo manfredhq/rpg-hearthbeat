@@ -11,4 +11,5 @@ premiere bulle de texte du coffre trop grande
 bug avec l'inventaire lors des saves   
 
 # Last patch note
-added a lever mechanics that unlock doors temporaly
+added a lever mechanics that unlock doors temporaly  
+added a mob mechanics that open a door temporarly (actually only 1 mob can be linked to a door)  
