@@ -9,6 +9,7 @@ Fermer l'inventaire pendant la selection "equip" ou "unequip"
 Inventaire trop "rapide" pour le clavier  
 premiere bulle de texte du coffre trop grande  
 bug avec l'inventaire lors des saves   
+bug when oppening the menue of the sword and closing the inventory
 
 # Last patch note
 added a lever mechanics that unlock doors temporaly  
