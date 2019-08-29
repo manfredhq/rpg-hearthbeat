@@ -13,4 +13,5 @@ bug when oppening the menue of the sword and closing the inventory
 
 # Last patch note
 added a lever mechanics that unlock doors temporaly  
-added a mob mechanics that open a door temporarly (actually only 1 mob can be linked to a door)  
+added a mob mechanics that open a door temporarly  
+ENDED THE MAP 3 (still have some animation to do/dialog/ and cinematics)  
